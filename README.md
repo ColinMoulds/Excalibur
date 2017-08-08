@@ -11,7 +11,7 @@
 ## Built With
 
 * [Node](https://github.com/nodejs/node/blob/master/README.md) - JavaScript Web Runtime 
-* [Npm](https://github.com/npm/npm) - Package Managemer
+* [Npm](https://github.com/npm/npm) - Package Manager
 * [Discord.js](https://github.com/hydrabolt/discord.js) - A powerful JavaScript library for interacting with the Discord API
 ## Authors
 
