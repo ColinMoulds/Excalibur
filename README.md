@@ -3,9 +3,8 @@
 <h1 align="center">Excalibur Discord Bot</h1>
 
 [![Discord Badge](https://discordapp.com/api/guilds/344230387503071233/embed.png)](https://discord.gg/e6PD9hU)
+<br>
 [![Codeship Badge](https://app.codeship.com/projects/b1c2afe0-5e06-0135-9f7a-4e783b460597/status)](https://codeship.com/)
-[![Npm Badge](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/)
-
 
 *Excalibur** is an ever-expanding [Discord](http://discordapp.com) bot written with [discord.js](https://discord.js.org/#/) that has a bunch of fun and useful commands.
 
