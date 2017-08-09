@@ -8,7 +8,6 @@
 
 **Excalibur** is an ever-expanding [Discord](http://discordapp.com) bot written with [discord.js](https://discord.js.org/#/) that has a bunch of fun and useful commands.
 
-
 ## Structure
 
     .
@@ -17,16 +16,19 @@
     ├── src                     # Source files
     ├── tools                   # Tools and utilities
     └── LICENSE
+
 ## Built With
 
 * [Node](https://github.com/nodejs/node/blob/master/README.md) - JavaScript Web Runtime 
 * [Npm](https://github.com/npm/npm) - Package Manager
 * [Discord.js](https://github.com/hydrabolt/discord.js) - A powerful JavaScript library for interacting with the Discord API
+
 ## Authors
 
 *Initial work* - [Colin Moulds](https://github.com/ColinMoulds)
 
 ## Contact
+
 If you need help with the bot, have a feature to request or just want to chat, you can join my Discord server! If you don't have Discord, don't worry. It only takes a few moments to sign up.
 
 ## Acknowledgments
