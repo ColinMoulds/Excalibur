@@ -6,7 +6,7 @@
 <br>
 [![Travid CI Badge](https://travis-ci.org/ColinMoulds/Excalibur.svg?branch=master)](https://travis-ci.org)
 <br>
--[![Codeship Badge](https://app.codeship.com/projects/2a8f0f80-5e13-0135-04b2-0a800465306c/status)](https://codeship.com/)
+[![Codeship Badge](https://app.codeship.com/projects/2a8f0f80-5e13-0135-04b2-0a800465306c/status)](https://codeship.com/)
 
 **Excalibur** is an ever-expanding [Discord](http://discordapp.com) bot written with [discord.js](https://discord.js.org/#/) that has a bunch of fun and useful commands.
 
