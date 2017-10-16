@@ -2,7 +2,7 @@
 
 <h1 align="center">Excalibur Discord Bot</h1>
 
-[![Discord Badge](https://discordapp.com/api/guilds/344230387503071233/embed.png)](https://discord.gg/e6PD9hU)
+[![Discord Badge](https://discordapp.com/api/guilds/339882246649544710/embed.png)](https://discord.gg/cFGt97)
 <br>
 [![Codeship Badge](https://app.codeship.com/projects/2a8f0f80-5e13-0135-04b2-0a800465306c/status)](https://codeship.com/)
 
